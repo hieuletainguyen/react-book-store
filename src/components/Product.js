@@ -12,13 +12,22 @@ const Product = (props) => {
   const { title, author, published, country, lang, pages, image, url, price } =
     props;
 
+  let selectedImage;
+  try {
+    selectedImage = require(`../images/${image}`);
+  } catch (err) {
+    selectedImage = require(`../images/default.jpg`);
+  }
+
+
   return (
     <div style={styles.product}>
       <a href={url}>
         <img
           style={styles.thumbnail}
-          src={image ? "images/" + image : "images/default.jpg"}
-          alt="{title}"
+          src={selectedImage}
+          alt="The image"
+          
         />
       </a>
       <div>
