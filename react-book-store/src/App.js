@@ -2,11 +2,13 @@ import React, {useState, useEffect} from "react";
 import Cart from "./components/Cart";
 import NavBar from "./components/NavBar";
 import Home from "./components";
+import Signup from './components/Signup';
 import {
   BrowserRouter as Router, 
   Routes, 
   Route,
 } from "react-router-dom";
+import data from "./data/products";
 
 
 function App() {
@@ -34,14 +36,7 @@ function App() {
   };
 
   useEffect(() => {
-    fetch("/data/products.json").then((response) =>
-      response
-        .json()
-        .then((products) => shuffleArray(products))
-        .then((products) => {
-          setProducts(products);
-        })
-    );
+    setProducts(shuffleArray(data));
   }, []);
 
   
@@ -55,13 +50,14 @@ function App() {
 
   return(
     <Router>
+      
       <NavBar />
       <Routes>
         <Route path="/" element={<Home addToCart={addToCart} removeFromCart={removeFromCart} products={products} items={items}/>} />;
 
         <Route path="/cart" element={<Cart removeFromCart={removeFromCart} inCart={itemDetails}/>} />;
 
-        <Route path="/signup" />;
+        <Route path="/signup" element={<Signup /> }/>;
 
       </Routes>
     </Router>
