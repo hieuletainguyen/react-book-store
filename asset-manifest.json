@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/react-book-store/static/css/main.e6c13ad2.css",
-    "main.js": "/react-book-store/static/js/main.8ecaf8c5.js",
-    "static/js/453.7028976d.chunk.js": "/react-book-store/static/js/453.7028976d.chunk.js",
-    "static/media/pride-and-prejudice.jpg": "/react-book-store/static/media/pride-and-prejudice.ac5643c5d519966e3bdb.jpg",
-    "static/media/one-thousand-and-one-nights.jpg": "/react-book-store/static/media/one-thousand-and-one-nights.0e31ee93e5410cf73202.jpg",
-    "static/media/default.jpg": "/react-book-store/static/media/default.260c1b280375834f760e.jpg",
-    "static/media/the-decameron.jpg": "/react-book-store/static/media/the-decameron.d795e57161f802e8cb35.jpg",
-    "static/media/the-divine-comedy.jpg": "/react-book-store/static/media/the-divine-comedy.0d533b842a49ce77b4e5.jpg",
-    "static/media/le-pere-goriot.jpg": "/react-book-store/static/media/le-pere-goriot.0d3356f6caac8e5389c3.jpg",
-    "static/media/the-epic-of-gilgamesh.jpg": "/react-book-store/static/media/the-epic-of-gilgamesh.ff8d13d13d8f886a1865.jpg",
-    "static/media/njals-saga.jpg": "/react-book-store/static/media/njals-saga.78cd5532d83082b271a9.jpg",
-    "static/media/the-book-of-job.jpg": "/react-book-store/static/media/the-book-of-job.795e7cfde04037c1fc36.jpg",
-    "static/media/things-fall-apart.jpg": "/react-book-store/static/media/things-fall-apart.193f8689a544e1c99b79.jpg",
-    "static/media/fairy-tales.jpg": "/react-book-store/static/media/fairy-tales.3629cdb34ef7f74d8539.jpg",
-    "static/media/molloy-malone-dies-the-unnamable.jpg": "/react-book-store/static/media/molloy-malone-dies-the-unnamable.52c1e9cb8327e7bbb3e7.jpg",
-    "index.html": "/react-book-store/index.html",
-    "main.e6c13ad2.css.map": "/react-book-store/static/css/main.e6c13ad2.css.map",
-    "main.8ecaf8c5.js.map": "/react-book-store/static/js/main.8ecaf8c5.js.map",
-    "453.7028976d.chunk.js.map": "/react-book-store/static/js/453.7028976d.chunk.js.map"
+    "main.css": "/react-book-store/react-book-store/static/css/main.e6c13ad2.css",
+    "main.js": "/react-book-store/react-book-store/static/js/main.deceba43.js",
+    "static/js/453.7028976d.chunk.js": "/react-book-store/react-book-store/static/js/453.7028976d.chunk.js",
+    "static/media/pride-and-prejudice.jpg": "/react-book-store/react-book-store/static/media/pride-and-prejudice.ac5643c5d519966e3bdb.jpg",
+    "static/media/one-thousand-and-one-nights.jpg": "/react-book-store/react-book-store/static/media/one-thousand-and-one-nights.0e31ee93e5410cf73202.jpg",
+    "static/media/default.jpg": "/react-book-store/react-book-store/static/media/default.260c1b280375834f760e.jpg",
+    "static/media/the-decameron.jpg": "/react-book-store/react-book-store/static/media/the-decameron.d795e57161f802e8cb35.jpg",
+    "static/media/the-divine-comedy.jpg": "/react-book-store/react-book-store/static/media/the-divine-comedy.0d533b842a49ce77b4e5.jpg",
+    "static/media/le-pere-goriot.jpg": "/react-book-store/react-book-store/static/media/le-pere-goriot.0d3356f6caac8e5389c3.jpg",
+    "static/media/the-epic-of-gilgamesh.jpg": "/react-book-store/react-book-store/static/media/the-epic-of-gilgamesh.ff8d13d13d8f886a1865.jpg",
+    "static/media/njals-saga.jpg": "/react-book-store/react-book-store/static/media/njals-saga.78cd5532d83082b271a9.jpg",
+    "static/media/the-book-of-job.jpg": "/react-book-store/react-book-store/static/media/the-book-of-job.795e7cfde04037c1fc36.jpg",
+    "static/media/things-fall-apart.jpg": "/react-book-store/react-book-store/static/media/things-fall-apart.193f8689a544e1c99b79.jpg",
+    "static/media/fairy-tales.jpg": "/react-book-store/react-book-store/static/media/fairy-tales.3629cdb34ef7f74d8539.jpg",
+    "static/media/molloy-malone-dies-the-unnamable.jpg": "/react-book-store/react-book-store/static/media/molloy-malone-dies-the-unnamable.52c1e9cb8327e7bbb3e7.jpg",
+    "index.html": "/react-book-store/react-book-store/index.html",
+    "main.e6c13ad2.css.map": "/react-book-store/react-book-store/static/css/main.e6c13ad2.css.map",
+    "main.deceba43.js.map": "/react-book-store/react-book-store/static/js/main.deceba43.js.map",
+    "453.7028976d.chunk.js.map": "/react-book-store/react-book-store/static/js/453.7028976d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.8ecaf8c5.js"
+    "static/js/main.deceba43.js"
   ]
 }
